@@ -1,1 +1,4 @@
-# beat_sync
+# BeatSync
+
+**TODO: Add description**
+
